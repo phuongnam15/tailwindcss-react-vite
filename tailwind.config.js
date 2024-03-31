@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         popi: "Poppins, sans-serif",
+        meri: "Merriweather, serif",
       },
       height: {
         400: "400px",
